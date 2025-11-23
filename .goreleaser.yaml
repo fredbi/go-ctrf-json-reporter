@@ -48,7 +48,7 @@ checksum:
 
 release:
   github:
-    owner: ctrf-io
+    owner: fredbi
     name: go-ctrf-json-reporter
   draft: true
   replace_existing_draft: true
